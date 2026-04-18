@@ -1,4 +1,4 @@
-# UCL Database & Automated Backup
+# Database & Automated Backup
 
 Base MongoDB sur EC2, backup quotidien vers S3 via GitHub Actions.
 
