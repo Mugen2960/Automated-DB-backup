@@ -2,7 +2,7 @@ name: MongoDB Backup
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # tous les jours à 2h du matin UTC
+    #- cron: '0 2 * * *'  # tous les jours à 2h du matin UTC
   workflow_dispatch:  # permet de le lancer manuellement aussi
 
 jobs:
